@@ -32,6 +32,10 @@
 				"Android",
 				"VisionOS"
 			]
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
